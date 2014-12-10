@@ -1,0 +1,9 @@
+E:\ASP.NET\Project\NumberApp\NumberApp\bin\Debug\NumberApp.exe.config
+E:\ASP.NET\Project\NumberApp\NumberApp\bin\Debug\NumberApp.exe
+E:\ASP.NET\Project\NumberApp\NumberApp\bin\Debug\NumberApp.pdb
+E:\ASP.NET\Project\NumberApp\NumberApp\obj\Debug\NumberApp.csprojResolveAssemblyReference.cache
+E:\ASP.NET\Project\NumberApp\NumberApp\obj\Debug\NumberApp.Form1.resources
+E:\ASP.NET\Project\NumberApp\NumberApp\obj\Debug\NumberApp.Properties.Resources.resources
+E:\ASP.NET\Project\NumberApp\NumberApp\obj\Debug\NumberApp.csproj.GenerateResource.Cache
+E:\ASP.NET\Project\NumberApp\NumberApp\obj\Debug\NumberApp.exe
+E:\ASP.NET\Project\NumberApp\NumberApp\obj\Debug\NumberApp.pdb
